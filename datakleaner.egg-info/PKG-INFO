@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
 Name: datakleaner
-Version: 0.1.0
+Version: 0.1.1
 Summary: An open-source Python package for checking and handling missing data, duplicates, and outliers in datasets.
 Author-email: David Ahonsu <olivetahonsu@gmail.com>
 License: Apache-2.0
@@ -21,6 +21,7 @@ Classifier: Intended Audience :: Other Audience
 Requires-Python: >=3.0
 Description-Content-Type: text/markdown
 License-File: LICENCE
+License-File: LICENSE
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: matplotlib
@@ -179,5 +180,5 @@ This project is licensed under the **Apache 2.0 License**.
 
 ## Contact
 For questions or suggestions, open an issue at:
-[GitHub Issues](https://github.com/olivetahonsu/datacleaner/issues).
+[GitHub Issues](https://github.com/olivetahonsu/datakleaner).
 Email: olivetahonsu@gmail.com

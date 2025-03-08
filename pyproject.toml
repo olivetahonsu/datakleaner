@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "datakleaner"
-version = "0.1.0"
+version = "0.1.1"
 description = "An open-source Python package for checking and handling missing data, duplicates, and outliers in datasets."
 readme = "README.md"
 authors = [
