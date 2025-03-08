@@ -151,5 +151,5 @@ This project is licensed under the **Apache 2.0 License**.
 
 ## Contact
 For questions or suggestions, open an issue at:
-[GitHub Issues](https://github.com/olivetahonsu/datacleaner/issues).
+[GitHub Issues](https://github.com/olivetahonsu/datakleaner).
 Email: olivetahonsu@gmail.com
